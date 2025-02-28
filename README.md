@@ -12,7 +12,7 @@ Este proyecto es una aplicación de escritorio desarrollada en C# con Windows Fo
 
 ## Capturas de Pantalla
 
-A continuación, se muestran algunas capturas de pantalla de la aplicación en funcionamiento:
+A continuación, se muestran una capturas de pantalla de la aplicación:
 
 ### Interfaz Principal
 
