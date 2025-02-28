@@ -230,7 +230,7 @@
             this.Controls.Add(this.label1);
             this.Controls.Add(this.txtDNI);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "Gestión Calificaciones";
             this.ResumeLayout(false);
             this.PerformLayout();
 
